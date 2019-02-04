@@ -1,5 +1,4 @@
 # Sample code
 install = input('Enter the app path to install: ')
 #Added new line
-num = 10
-num = 20
+num = 30
